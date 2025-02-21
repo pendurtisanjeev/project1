@@ -10,9 +10,9 @@
 #sudo apt install -y ngnix
 #
 #echo "remove the samples pages"
-#sudo "rm -rf /var/www/html
+#sudo rm -rf /var/www/html
 #
 #echo "clone login app"
-#sudo git clone https://github.com/pendurtisanjeev/project1.git /var/www/html/
+#sudo git clone https://github.com/pendurtisanjeev/project1.git/var/www/html/
 #
 #echo "script execution completed"
